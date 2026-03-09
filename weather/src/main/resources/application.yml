@@ -1,0 +1,3 @@
+weather:
+  baseUrl: "https://m77fc2t3hn.re.qweatherapi.com/v7/weather/now"
+  key: "7847144afc7d43f8910d9d862712df70"
