@@ -1,4 +1,4 @@
-# VueWeather天气预报前端页面
+# VueWeather天气预报--前端
 
 界面由ai生成
 
@@ -29,3 +29,34 @@ npm run dev
 #### 组件化
 
 SelectedArea的组件化，父子组件互传
+
+# VueWeather天气预报--后端
+基于SSM+springboot的服务器处理系统
+## Ide
+
+IDEA+finalshell+Datagrip
+
+## 浏览器
+
+EDGE运行调试
+## 运行项目
+
+```sh
+start
+```
+
+## 技术栈
+
+#### mybatics
+
+运用了注解调用数据库
+
+### spring
+
+基于spring框架
+
+#### java注解
+@Slf4j
+@Component
+@Bean
+等注解。
